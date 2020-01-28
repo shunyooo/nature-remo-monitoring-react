@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "89892a134ed1507534f7e33c14764290",
+    "revision": "f57775e727b9a6408c1a76c525179631",
     "url": "/nature-remo-monitoring/index.html"
   },
   {
-    "revision": "3555407015ae68c93c5e",
+    "revision": "24c5e69a05009596ef5b",
     "url": "/nature-remo-monitoring/static/css/main.dfca195d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nature-remo-monitoring/static/js/2.d716a991.chunk.js.LICENSE"
   },
   {
-    "revision": "3555407015ae68c93c5e",
-    "url": "/nature-remo-monitoring/static/js/main.118ce9e7.chunk.js"
+    "revision": "24c5e69a05009596ef5b",
+    "url": "/nature-remo-monitoring/static/js/main.2383789a.chunk.js"
   },
   {
     "revision": "ad4897682bd7d827ef50",

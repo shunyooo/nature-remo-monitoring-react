@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/nature-remo-monitoring/precache-manifest.766c1fc615d1204f9a6846cf7e271655.js"
+  "/nature-remo-monitoring/precache-manifest.19504473cbe974aaac1a1a663d409232.js"
 );
 
 self.addEventListener('message', (event) => {
