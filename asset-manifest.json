@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/nature-remo-monitoring/static/css/main.dfca195d.chunk.css",
-    "main.js": "/nature-remo-monitoring/static/js/main.2383789a.chunk.js",
-    "main.js.map": "/nature-remo-monitoring/static/js/main.2383789a.chunk.js.map",
-    "runtime-main.js": "/nature-remo-monitoring/static/js/runtime-main.dd59173a.js",
-    "runtime-main.js.map": "/nature-remo-monitoring/static/js/runtime-main.dd59173a.js.map",
-    "static/js/2.d716a991.chunk.js": "/nature-remo-monitoring/static/js/2.d716a991.chunk.js",
-    "static/js/2.d716a991.chunk.js.map": "/nature-remo-monitoring/static/js/2.d716a991.chunk.js.map",
-    "index.html": "/nature-remo-monitoring/index.html",
-    "precache-manifest.19504473cbe974aaac1a1a663d409232.js": "/nature-remo-monitoring/precache-manifest.19504473cbe974aaac1a1a663d409232.js",
-    "service-worker.js": "/nature-remo-monitoring/service-worker.js",
-    "static/css/main.dfca195d.chunk.css.map": "/nature-remo-monitoring/static/css/main.dfca195d.chunk.css.map",
-    "static/js/2.d716a991.chunk.js.LICENSE": "/nature-remo-monitoring/static/js/2.d716a991.chunk.js.LICENSE",
-    "static/media/logo.svg": "/nature-remo-monitoring/static/media/logo.25bf045c.svg"
+    "main.css": "/nature-remo-monitoring-react/static/css/main.dfca195d.chunk.css",
+    "main.js": "/nature-remo-monitoring-react/static/js/main.eb8e1e20.chunk.js",
+    "main.js.map": "/nature-remo-monitoring-react/static/js/main.eb8e1e20.chunk.js.map",
+    "runtime-main.js": "/nature-remo-monitoring-react/static/js/runtime-main.d30a0adf.js",
+    "runtime-main.js.map": "/nature-remo-monitoring-react/static/js/runtime-main.d30a0adf.js.map",
+    "static/js/2.33127d8f.chunk.js": "/nature-remo-monitoring-react/static/js/2.33127d8f.chunk.js",
+    "static/js/2.33127d8f.chunk.js.map": "/nature-remo-monitoring-react/static/js/2.33127d8f.chunk.js.map",
+    "index.html": "/nature-remo-monitoring-react/index.html",
+    "precache-manifest.93346ac3c748efc3ceb84df5492dfa05.js": "/nature-remo-monitoring-react/precache-manifest.93346ac3c748efc3ceb84df5492dfa05.js",
+    "service-worker.js": "/nature-remo-monitoring-react/service-worker.js",
+    "static/css/main.dfca195d.chunk.css.map": "/nature-remo-monitoring-react/static/css/main.dfca195d.chunk.css.map",
+    "static/js/2.33127d8f.chunk.js.LICENSE": "/nature-remo-monitoring-react/static/js/2.33127d8f.chunk.js.LICENSE",
+    "static/media/logo.svg": "/nature-remo-monitoring-react/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.dd59173a.js",
-    "static/js/2.d716a991.chunk.js",
+    "static/js/runtime-main.d30a0adf.js",
+    "static/js/2.33127d8f.chunk.js",
     "static/css/main.dfca195d.chunk.css",
-    "static/js/main.2383789a.chunk.js"
+    "static/js/main.eb8e1e20.chunk.js"
   ]
 }
